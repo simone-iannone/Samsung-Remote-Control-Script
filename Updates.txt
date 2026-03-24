@@ -1,1 +1,2 @@
 Sto lavorando per creare automazioni utili. Caricherò prima possibile gli aggiornamenti
+Lo script è ancora in fase di testing ma dovrebbe funzionare perfettamente.
