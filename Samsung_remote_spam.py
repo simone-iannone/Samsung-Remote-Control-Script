@@ -1,5 +1,5 @@
 # © 2026 Simone Iannone
-# Script creato da Simone Iannone — https://github.com/tuo-username/tuo-repo
+# Script creato da Simone Iannone — https://github.com/simone-iannone/Samsung-Remote-Control-Script
 # Licenza: MIT
 
 
