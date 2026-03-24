@@ -18,4 +18,5 @@ Lo script riceve il token di autorizzazione e invia i comandi scelti, eventualme
 Modifica le variabili nella sezione CONFIG:
 
 Note
+
 Ogni volta che lo script viene eseguito è necessario premere Consenti sulla TV.
